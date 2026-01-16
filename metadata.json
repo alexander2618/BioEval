@@ -1,0 +1,5 @@
+{
+  "name": "BioEval AI Framework",
+  "description": "A comprehensive evaluation dashboard for Biological AI Agents, covering RAG, QA, Tool-Calling, and Deep Research metrics and datasets.",
+  "requestFramePermissions": []
+}
